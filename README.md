@@ -44,7 +44,7 @@
 1.  **Клонируйте репозиторий:**
 
     ```bash
-    git clone <ваша_ссылка_на_репозиторий>
+    git clone https://github.com/jinxinzero7/TaskManagementSystem.git
     ```
 
 2.  **Откройте проект в Visual Studio (или Visual Studio Code с C# расширением).**
